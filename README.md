@@ -1,52 +1,101 @@
-# Welcome to Trivedram 👋
+<div align="center">
 
-<p align="center">
-  <img src="trivedram.png" width="140" alt="Trivedram Logo">
-</p>
+# Hey, I'm Teja 👋
 
-<p align="center">
-Building technology that empowers people worldwide, inspired by Indian values of knowledge, innovation, and collaboration.
-</p>
+### Founder of **Trivedram** 🌿
 
----
+*Learning in public. Building in open source. Growing one commit at a time.*
 
-## 🌍 Vision
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=Software+Engineer.;Open+Source+Builder.;AI+%7C+Cloud+%7C+Web.;Always+Learning.;Always+Building." />
 
-To create technology that positively impacts billions of lives.
-
-## 🚀 What We Build
-
-- Artificial Intelligence
-- Cloud Computing
-- Open Source Software
-- Developer Tools
-- Web Technologies
-- Mobile Applications
-- Research Projects
-
-## ❤️ Open Source
-
-We believe great technology is built together.
-
-Whether you're fixing bugs, improving documentation, designing interfaces, or writing code—you are welcome here.
-
-## 📚 Getting Started
-
-- Read each project's README
-- Check the Issues tab
-- Look for `good first issue`
-- Submit your first Pull Request
-
-## 🤝 Community
-
-Be respectful.
-
-Be curious.
-
-Help others learn.
-
-Grow together.
+</div>
 
 ---
 
-Made with ❤️ in India for the world.
+## 🌱 About Me
+
+I'm passionate about building software that solves real problems.
+
+I enjoy exploring new technologies, contributing to open source, and creating projects that help people learn and build.
+
+Currently, I'm building **Trivedram**, an open technology organization focused on engineering, open source, and meaningful software.
+
+---
+
+## 🚀 Current Focus
+
+* 🤖 Artificial Intelligence
+* ☁️ Cloud & Infrastructure
+* 🌐 Full-Stack Development
+* 🛠 Developer Tools
+* 📚 Continuous Learning
+* ❤️ Open Source
+
+---
+
+## 💡 Philosophy
+
+> Build things that matter.
+>
+> Share what you learn.
+>
+> Help others grow.
+>
+> Repeat.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+* Java
+* Python
+* JavaScript
+* TypeScript
+* C++
+
+**Frameworks & Tools**
+
+* Spring Boot
+* React
+* Node.js
+* Docker
+* Git
+* Linux
+
+**Currently Exploring**
+
+* Machine Learning
+* System Design
+* Cloud Native Technologies
+
+---
+
+## 🌿 Trivedram
+
+Trivedram is where ideas become projects.
+
+We're building software with curiosity, craftsmanship, and a commitment to open collaboration.
+
+Every repository is another step in that journey.
+
+---
+
+## 📈 GitHub
+
+* Open Source Enthusiast
+* Lifelong Learner
+* Builder at Heart
+
+---
+
+<div align="center">
+
+### "The best projects begin with curiosity."
+
+⭐ Thanks for visiting my profile.
+
+Let's build something meaningful.
+
+</div>

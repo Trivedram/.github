@@ -1,0 +1,12 @@
+# IntelliJ / PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
